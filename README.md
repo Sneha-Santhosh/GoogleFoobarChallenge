@@ -9,4 +9,4 @@ So far I have completed level 1 of the challenge which I have uploaded here.
 
 Here's my level 1 bunny hopping around in joy after I solved the problem.
 
-![](images/bunny1.png)
+![](images/bunny1.PNG)
