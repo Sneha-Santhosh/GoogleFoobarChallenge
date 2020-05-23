@@ -7,6 +7,6 @@ Google has a secret challenge for coders who do a lot of google searches related
 So far I have completed level 1 of the challenge using Java, which I have uploaded here.
 
 
-Here's my level 1 bunny hopping around after I solved the problem.
+
 
 ![](images/bunny1.PNG)
