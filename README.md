@@ -1,10 +1,10 @@
 # GoogleFoobarChallenge
-Questions and answers for Google's secret foo.bar challenge I received.
+Questions and answers for Google's secret foo.bar challenge.
 
 
-Google has a secret challenge for coders who do a lot of google searches related to coding. When I was searching on Google I saw a message pop up saying "Curious developers are known to seek interesting problems. Solve one from google?". So I decided to give it a try. 
+Google has a secret challenge for coders who do a lot of Google searches related to coding. When searching on Google, I got a pop-up saying "Curious developers are known to seek interesting problems. Solve one from Google?".  
 
-So far I have completed level 1 of the challenge using Java, which I have uploaded here.
+Completed level 1 of the challenge using Java.
 
 Here's my level 1 bunny hopping around after I solved the problem.
 
